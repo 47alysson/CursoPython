@@ -12,3 +12,8 @@
 # print(variavel)
 # print(nova)
 
+# from aula99_package.modulo import soma_do_modulo
+
+from aula99_package import soma_do_modulo
+
+print(soma_do_modulo(2,5))
